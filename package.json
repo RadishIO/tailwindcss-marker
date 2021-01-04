@@ -1,5 +1,5 @@
 {
-  "name": "@novacapta/tailwindcss-marker",
+  "name": "@radishio/tailwindcss-marker",
   "version": "1.0.0",
   "description": "Tailwind CSS plugin to style list markers",
   "main": "src/index.js",
@@ -8,7 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/novacapta/tailwindcss-marker.git"
+    "url": "git+https://github.com/radishio/tailwindcss-marker.git"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "keywords": [
     "tailwind",
@@ -16,12 +19,12 @@
     "plugin",
     "marker"
   ],
-  "author": "novaCapta Software & Solutions GmbH",
+  "author": "RadishIO",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/novacapta/tailwindcss-marker/issues"
+    "url": "https://github.com/radishio/tailwindcss-marker/issues"
   },
-  "homepage": "https://github.com/novacapta/tailwindcss-marker#readme",
+  "homepage": "https://github.com/radishio/tailwindcss-marker#readme",
   "devDependencies": {
     "github-release-from-changelog": "^2.1.1",
     "jest": "^26.1.0",
