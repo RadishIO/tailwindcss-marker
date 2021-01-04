@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "@radishio/tailwindcss-marker",
+			"path": "."
+		}
+	],
+	"settings": { },
+	"extensions": {
+		"recommendations": [
+			"esbenp.prettier-vscode"
+		]
+	}
+}
