@@ -1,45 +1,52 @@
-const _ = require('lodash');
 const plugin = require('tailwindcss/plugin');
 
-const flatten = require('tailwindcss/lib/util/flattenColorPalette');
-const toColorValue = require('tailwindcss/lib/util/toColorValue');
+function flattenColors(colors) {
+    return Object.assign(
+        {},
+        ...Object.entries(colors).flatMap(([color, values]) =>
+            typeof values == 'object'
+                ? Object.entries(flattenColors(values)).map(([number, hex]) => ({
+                    [color + (number === 'DEFAULT' ? '' : `-${number}`)]: hex,
+                }))
+                : [{ [`${color}`]: values }]
+        )
+    );
+}
 
-const marker = plugin(
+function toColorValue(maybeFunction) {
+    return typeof maybeFunction === 'function' ? maybeFunction({}) : maybeFunction;
+}
+
+function sortProperties(obj) {
+    let result = {};
+    Object.keys(obj).sort().map(key => result[key] = obj[key]);
+    return result;
+}
+
+const markerPlugin = plugin(
     function ({ addUtilities, theme, variants, e }) {
-        const listMarkerColors = flatten.default(theme('listMarkerColor'));
-        const markerColors = flatten.default(theme('markerColor'));
+        const { DEFAULT, transparent, ...markerColors } = flattenColors(theme('markerColor'));
 
-        const listMarkerStyles = _.fromPairs(
-            _.map(_.omit(listMarkerColors, 'DEFAULT', 'transparent'), (value, modifier) => {
-                return [
-                    `.list-marker-${e(modifier)} > ::marker`,
-                    { color: toColorValue.default(value) }
-                ];
-            })
-        );
+        let markerStyles = {};
 
-        const markerStyles = _.fromPairs(
-            _.map(_.omit(markerColors, 'DEFAULT', 'transparent'), (value, modifier) => {
-                return [
-                    `.marker-${e(modifier)}::-webkit-details-marker, .marker-${e(modifier)}::marker`,
-                    { color: toColorValue.default(value) }
-                ];
-            })
-        );
+        Object.entries(markerColors).map(([modifier, value]) => {
+            const escapedModifier = e(modifier);
+            const color = toColorValue(value);
 
-        addUtilities(listMarkerStyles, variants('listMarkerColor', []));
-        addUtilities(markerStyles, variants('markerColor', []));
+            markerStyles[`.list-marker-${escapedModifier} > ::marker`] = { color: color };
+            markerStyles[`.marker-${escapedModifier}::-webkit-details-marker, .marker-${escapedModifier}::marker`] = { color: color };
+        });
+
+        addUtilities(sortProperties(markerStyles), variants('markerColor', []));
     },
     {
         theme: {
-            listMarkerColor: (theme) => theme('colors'),
             markerColor: (theme) => theme('colors')
         },
         variants: {
-            listMarkerColor: ['responsive', 'dark'],
             markerColor: ['responsive', 'dark']
         }
     }
-)
+);
 
-module.exports = marker;
+module.exports = markerPlugin;
