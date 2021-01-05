@@ -19,7 +19,7 @@ function toColorValue(maybeFunction) {
 
 function sortProperties(obj) {
     let result = {};
-    Object.keys(obj).sort().map(key => result[key] = obj[key]);
+    Object.keys(obj).sort().forEach(key => result[key] = obj[key]);
     return result;
 }
 
@@ -29,7 +29,7 @@ const markerPlugin = plugin(
 
         let markerStyles = {};
 
-        Object.entries(markerColors).map(([modifier, value]) => {
+        Object.entries(markerColors).forEach(([modifier, value]) => {
             const escapedModifier = e(modifier);
             const color = toColorValue(value);
 
