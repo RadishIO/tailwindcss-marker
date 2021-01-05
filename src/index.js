@@ -19,7 +19,7 @@ function toColorValue(maybeFunction) {
 
 function sortProperties(obj) {
     let result = {};
-    Object.keys(obj).sort().forEach(key => result[key] = obj[key]);
+    Object.keys(obj).sort((a,b) => a.localeCompare(b)).forEach(key => result[key] = obj[key]);
     return result;
 }
 
