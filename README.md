@@ -1,5 +1,5 @@
 # tailwindcss-marker
-Tailwind CSS plugin to style list and summary markers
+Tailwind CSS plugin to style list and summary markers - [Download Link](https://www.npmjs.com/package/@radishio/tailwindcss-marker)
 
 ## Install
 ```sh
