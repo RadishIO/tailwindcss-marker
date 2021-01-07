@@ -403,12 +403,12 @@ it("should generate default classes for the marker components", async () => {
       color: #60a5fa
     }
 
-    .marker-blue-500::-webkit-details-marker, .marker-blue-500::marker {
-      color: #3b82f6
-    }
-
     .marker-blue-50::-webkit-details-marker, .marker-blue-50::marker {
       color: #eff6ff
+    }
+
+    .marker-blue-500::-webkit-details-marker, .marker-blue-500::marker {
+      color: #3b82f6
     }
 
     .marker-blue-600::-webkit-details-marker, .marker-blue-600::marker {
@@ -447,12 +447,12 @@ it("should generate default classes for the marker components", async () => {
       color: #9ca3af
     }
 
-    .marker-gray-500::-webkit-details-marker, .marker-gray-500::marker {
-      color: #6b7280
-    }
-
     .marker-gray-50::-webkit-details-marker, .marker-gray-50::marker {
       color: #f9fafb
+    }
+
+    .marker-gray-500::-webkit-details-marker, .marker-gray-500::marker {
+      color: #6b7280
     }
 
     .marker-gray-600::-webkit-details-marker, .marker-gray-600::marker {
@@ -487,12 +487,12 @@ it("should generate default classes for the marker components", async () => {
       color: #34d399
     }
 
-    .marker-green-500::-webkit-details-marker, .marker-green-500::marker {
-      color: #10b981
-    }
-
     .marker-green-50::-webkit-details-marker, .marker-green-50::marker {
       color: #ecfdf5
+    }
+
+    .marker-green-500::-webkit-details-marker, .marker-green-500::marker {
+      color: #10b981
     }
 
     .marker-green-600::-webkit-details-marker, .marker-green-600::marker {
@@ -527,12 +527,12 @@ it("should generate default classes for the marker components", async () => {
       color: #818cf8
     }
 
-    .marker-indigo-500::-webkit-details-marker, .marker-indigo-500::marker {
-      color: #6366f1
-    }
-
     .marker-indigo-50::-webkit-details-marker, .marker-indigo-50::marker {
       color: #eef2ff
+    }
+
+    .marker-indigo-500::-webkit-details-marker, .marker-indigo-500::marker {
+      color: #6366f1
     }
 
     .marker-indigo-600::-webkit-details-marker, .marker-indigo-600::marker {
@@ -567,12 +567,12 @@ it("should generate default classes for the marker components", async () => {
       color: #f472b6
     }
 
-    .marker-pink-500::-webkit-details-marker, .marker-pink-500::marker {
-      color: #ec4899
-    }
-
     .marker-pink-50::-webkit-details-marker, .marker-pink-50::marker {
       color: #fdf2f8
+    }
+
+    .marker-pink-500::-webkit-details-marker, .marker-pink-500::marker {
+      color: #ec4899
     }
 
     .marker-pink-600::-webkit-details-marker, .marker-pink-600::marker {
@@ -607,12 +607,12 @@ it("should generate default classes for the marker components", async () => {
       color: #a78bfa
     }
 
-    .marker-purple-500::-webkit-details-marker, .marker-purple-500::marker {
-      color: #8b5cf6
-    }
-
     .marker-purple-50::-webkit-details-marker, .marker-purple-50::marker {
       color: #f5f3ff
+    }
+
+    .marker-purple-500::-webkit-details-marker, .marker-purple-500::marker {
+      color: #8b5cf6
     }
 
     .marker-purple-600::-webkit-details-marker, .marker-purple-600::marker {
@@ -647,12 +647,12 @@ it("should generate default classes for the marker components", async () => {
       color: #f87171
     }
 
-    .marker-red-500::-webkit-details-marker, .marker-red-500::marker {
-      color: #ef4444
-    }
-
     .marker-red-50::-webkit-details-marker, .marker-red-50::marker {
       color: #fef2f2
+    }
+
+    .marker-red-500::-webkit-details-marker, .marker-red-500::marker {
+      color: #ef4444
     }
 
     .marker-red-600::-webkit-details-marker, .marker-red-600::marker {
@@ -691,12 +691,12 @@ it("should generate default classes for the marker components", async () => {
       color: #fbbf24
     }
 
-    .marker-yellow-500::-webkit-details-marker, .marker-yellow-500::marker {
-      color: #f59e0b
-    }
-
     .marker-yellow-50::-webkit-details-marker, .marker-yellow-50::marker {
       color: #fffbeb
+    }
+
+    .marker-yellow-500::-webkit-details-marker, .marker-yellow-500::marker {
+      color: #f59e0b
     }
 
     .marker-yellow-600::-webkit-details-marker, .marker-yellow-600::marker {
@@ -1068,12 +1068,12 @@ it("should generate default classes for the marker components", async () => {
         color: #60a5fa
       }
 
-      .sm\\\\:marker-blue-500::-webkit-details-marker, .sm\\\\:marker-blue-500::marker {
-        color: #3b82f6
-      }
-
       .sm\\\\:marker-blue-50::-webkit-details-marker, .sm\\\\:marker-blue-50::marker {
         color: #eff6ff
+      }
+
+      .sm\\\\:marker-blue-500::-webkit-details-marker, .sm\\\\:marker-blue-500::marker {
+        color: #3b82f6
       }
 
       .sm\\\\:marker-blue-600::-webkit-details-marker, .sm\\\\:marker-blue-600::marker {
@@ -1112,12 +1112,12 @@ it("should generate default classes for the marker components", async () => {
         color: #9ca3af
       }
 
-      .sm\\\\:marker-gray-500::-webkit-details-marker, .sm\\\\:marker-gray-500::marker {
-        color: #6b7280
-      }
-
       .sm\\\\:marker-gray-50::-webkit-details-marker, .sm\\\\:marker-gray-50::marker {
         color: #f9fafb
+      }
+
+      .sm\\\\:marker-gray-500::-webkit-details-marker, .sm\\\\:marker-gray-500::marker {
+        color: #6b7280
       }
 
       .sm\\\\:marker-gray-600::-webkit-details-marker, .sm\\\\:marker-gray-600::marker {
@@ -1152,12 +1152,12 @@ it("should generate default classes for the marker components", async () => {
         color: #34d399
       }
 
-      .sm\\\\:marker-green-500::-webkit-details-marker, .sm\\\\:marker-green-500::marker {
-        color: #10b981
-      }
-
       .sm\\\\:marker-green-50::-webkit-details-marker, .sm\\\\:marker-green-50::marker {
         color: #ecfdf5
+      }
+
+      .sm\\\\:marker-green-500::-webkit-details-marker, .sm\\\\:marker-green-500::marker {
+        color: #10b981
       }
 
       .sm\\\\:marker-green-600::-webkit-details-marker, .sm\\\\:marker-green-600::marker {
@@ -1192,12 +1192,12 @@ it("should generate default classes for the marker components", async () => {
         color: #818cf8
       }
 
-      .sm\\\\:marker-indigo-500::-webkit-details-marker, .sm\\\\:marker-indigo-500::marker {
-        color: #6366f1
-      }
-
       .sm\\\\:marker-indigo-50::-webkit-details-marker, .sm\\\\:marker-indigo-50::marker {
         color: #eef2ff
+      }
+
+      .sm\\\\:marker-indigo-500::-webkit-details-marker, .sm\\\\:marker-indigo-500::marker {
+        color: #6366f1
       }
 
       .sm\\\\:marker-indigo-600::-webkit-details-marker, .sm\\\\:marker-indigo-600::marker {
@@ -1232,12 +1232,12 @@ it("should generate default classes for the marker components", async () => {
         color: #f472b6
       }
 
-      .sm\\\\:marker-pink-500::-webkit-details-marker, .sm\\\\:marker-pink-500::marker {
-        color: #ec4899
-      }
-
       .sm\\\\:marker-pink-50::-webkit-details-marker, .sm\\\\:marker-pink-50::marker {
         color: #fdf2f8
+      }
+
+      .sm\\\\:marker-pink-500::-webkit-details-marker, .sm\\\\:marker-pink-500::marker {
+        color: #ec4899
       }
 
       .sm\\\\:marker-pink-600::-webkit-details-marker, .sm\\\\:marker-pink-600::marker {
@@ -1272,12 +1272,12 @@ it("should generate default classes for the marker components", async () => {
         color: #a78bfa
       }
 
-      .sm\\\\:marker-purple-500::-webkit-details-marker, .sm\\\\:marker-purple-500::marker {
-        color: #8b5cf6
-      }
-
       .sm\\\\:marker-purple-50::-webkit-details-marker, .sm\\\\:marker-purple-50::marker {
         color: #f5f3ff
+      }
+
+      .sm\\\\:marker-purple-500::-webkit-details-marker, .sm\\\\:marker-purple-500::marker {
+        color: #8b5cf6
       }
 
       .sm\\\\:marker-purple-600::-webkit-details-marker, .sm\\\\:marker-purple-600::marker {
@@ -1312,12 +1312,12 @@ it("should generate default classes for the marker components", async () => {
         color: #f87171
       }
 
-      .sm\\\\:marker-red-500::-webkit-details-marker, .sm\\\\:marker-red-500::marker {
-        color: #ef4444
-      }
-
       .sm\\\\:marker-red-50::-webkit-details-marker, .sm\\\\:marker-red-50::marker {
         color: #fef2f2
+      }
+
+      .sm\\\\:marker-red-500::-webkit-details-marker, .sm\\\\:marker-red-500::marker {
+        color: #ef4444
       }
 
       .sm\\\\:marker-red-600::-webkit-details-marker, .sm\\\\:marker-red-600::marker {
@@ -1356,12 +1356,12 @@ it("should generate default classes for the marker components", async () => {
         color: #fbbf24
       }
 
-      .sm\\\\:marker-yellow-500::-webkit-details-marker, .sm\\\\:marker-yellow-500::marker {
-        color: #f59e0b
-      }
-
       .sm\\\\:marker-yellow-50::-webkit-details-marker, .sm\\\\:marker-yellow-50::marker {
         color: #fffbeb
+      }
+
+      .sm\\\\:marker-yellow-500::-webkit-details-marker, .sm\\\\:marker-yellow-500::marker {
+        color: #f59e0b
       }
 
       .sm\\\\:marker-yellow-600::-webkit-details-marker, .sm\\\\:marker-yellow-600::marker {
@@ -1734,12 +1734,12 @@ it("should generate default classes for the marker components", async () => {
         color: #60a5fa
       }
 
-      .md\\\\:marker-blue-500::-webkit-details-marker, .md\\\\:marker-blue-500::marker {
-        color: #3b82f6
-      }
-
       .md\\\\:marker-blue-50::-webkit-details-marker, .md\\\\:marker-blue-50::marker {
         color: #eff6ff
+      }
+
+      .md\\\\:marker-blue-500::-webkit-details-marker, .md\\\\:marker-blue-500::marker {
+        color: #3b82f6
       }
 
       .md\\\\:marker-blue-600::-webkit-details-marker, .md\\\\:marker-blue-600::marker {
@@ -1778,12 +1778,12 @@ it("should generate default classes for the marker components", async () => {
         color: #9ca3af
       }
 
-      .md\\\\:marker-gray-500::-webkit-details-marker, .md\\\\:marker-gray-500::marker {
-        color: #6b7280
-      }
-
       .md\\\\:marker-gray-50::-webkit-details-marker, .md\\\\:marker-gray-50::marker {
         color: #f9fafb
+      }
+
+      .md\\\\:marker-gray-500::-webkit-details-marker, .md\\\\:marker-gray-500::marker {
+        color: #6b7280
       }
 
       .md\\\\:marker-gray-600::-webkit-details-marker, .md\\\\:marker-gray-600::marker {
@@ -1818,12 +1818,12 @@ it("should generate default classes for the marker components", async () => {
         color: #34d399
       }
 
-      .md\\\\:marker-green-500::-webkit-details-marker, .md\\\\:marker-green-500::marker {
-        color: #10b981
-      }
-
       .md\\\\:marker-green-50::-webkit-details-marker, .md\\\\:marker-green-50::marker {
         color: #ecfdf5
+      }
+
+      .md\\\\:marker-green-500::-webkit-details-marker, .md\\\\:marker-green-500::marker {
+        color: #10b981
       }
 
       .md\\\\:marker-green-600::-webkit-details-marker, .md\\\\:marker-green-600::marker {
@@ -1858,12 +1858,12 @@ it("should generate default classes for the marker components", async () => {
         color: #818cf8
       }
 
-      .md\\\\:marker-indigo-500::-webkit-details-marker, .md\\\\:marker-indigo-500::marker {
-        color: #6366f1
-      }
-
       .md\\\\:marker-indigo-50::-webkit-details-marker, .md\\\\:marker-indigo-50::marker {
         color: #eef2ff
+      }
+
+      .md\\\\:marker-indigo-500::-webkit-details-marker, .md\\\\:marker-indigo-500::marker {
+        color: #6366f1
       }
 
       .md\\\\:marker-indigo-600::-webkit-details-marker, .md\\\\:marker-indigo-600::marker {
@@ -1898,12 +1898,12 @@ it("should generate default classes for the marker components", async () => {
         color: #f472b6
       }
 
-      .md\\\\:marker-pink-500::-webkit-details-marker, .md\\\\:marker-pink-500::marker {
-        color: #ec4899
-      }
-
       .md\\\\:marker-pink-50::-webkit-details-marker, .md\\\\:marker-pink-50::marker {
         color: #fdf2f8
+      }
+
+      .md\\\\:marker-pink-500::-webkit-details-marker, .md\\\\:marker-pink-500::marker {
+        color: #ec4899
       }
 
       .md\\\\:marker-pink-600::-webkit-details-marker, .md\\\\:marker-pink-600::marker {
@@ -1938,12 +1938,12 @@ it("should generate default classes for the marker components", async () => {
         color: #a78bfa
       }
 
-      .md\\\\:marker-purple-500::-webkit-details-marker, .md\\\\:marker-purple-500::marker {
-        color: #8b5cf6
-      }
-
       .md\\\\:marker-purple-50::-webkit-details-marker, .md\\\\:marker-purple-50::marker {
         color: #f5f3ff
+      }
+
+      .md\\\\:marker-purple-500::-webkit-details-marker, .md\\\\:marker-purple-500::marker {
+        color: #8b5cf6
       }
 
       .md\\\\:marker-purple-600::-webkit-details-marker, .md\\\\:marker-purple-600::marker {
@@ -1978,12 +1978,12 @@ it("should generate default classes for the marker components", async () => {
         color: #f87171
       }
 
-      .md\\\\:marker-red-500::-webkit-details-marker, .md\\\\:marker-red-500::marker {
-        color: #ef4444
-      }
-
       .md\\\\:marker-red-50::-webkit-details-marker, .md\\\\:marker-red-50::marker {
         color: #fef2f2
+      }
+
+      .md\\\\:marker-red-500::-webkit-details-marker, .md\\\\:marker-red-500::marker {
+        color: #ef4444
       }
 
       .md\\\\:marker-red-600::-webkit-details-marker, .md\\\\:marker-red-600::marker {
@@ -2022,12 +2022,12 @@ it("should generate default classes for the marker components", async () => {
         color: #fbbf24
       }
 
-      .md\\\\:marker-yellow-500::-webkit-details-marker, .md\\\\:marker-yellow-500::marker {
-        color: #f59e0b
-      }
-
       .md\\\\:marker-yellow-50::-webkit-details-marker, .md\\\\:marker-yellow-50::marker {
         color: #fffbeb
+      }
+
+      .md\\\\:marker-yellow-500::-webkit-details-marker, .md\\\\:marker-yellow-500::marker {
+        color: #f59e0b
       }
 
       .md\\\\:marker-yellow-600::-webkit-details-marker, .md\\\\:marker-yellow-600::marker {
@@ -2400,12 +2400,12 @@ it("should generate default classes for the marker components", async () => {
         color: #60a5fa
       }
 
-      .lg\\\\:marker-blue-500::-webkit-details-marker, .lg\\\\:marker-blue-500::marker {
-        color: #3b82f6
-      }
-
       .lg\\\\:marker-blue-50::-webkit-details-marker, .lg\\\\:marker-blue-50::marker {
         color: #eff6ff
+      }
+
+      .lg\\\\:marker-blue-500::-webkit-details-marker, .lg\\\\:marker-blue-500::marker {
+        color: #3b82f6
       }
 
       .lg\\\\:marker-blue-600::-webkit-details-marker, .lg\\\\:marker-blue-600::marker {
@@ -2444,12 +2444,12 @@ it("should generate default classes for the marker components", async () => {
         color: #9ca3af
       }
 
-      .lg\\\\:marker-gray-500::-webkit-details-marker, .lg\\\\:marker-gray-500::marker {
-        color: #6b7280
-      }
-
       .lg\\\\:marker-gray-50::-webkit-details-marker, .lg\\\\:marker-gray-50::marker {
         color: #f9fafb
+      }
+
+      .lg\\\\:marker-gray-500::-webkit-details-marker, .lg\\\\:marker-gray-500::marker {
+        color: #6b7280
       }
 
       .lg\\\\:marker-gray-600::-webkit-details-marker, .lg\\\\:marker-gray-600::marker {
@@ -2484,12 +2484,12 @@ it("should generate default classes for the marker components", async () => {
         color: #34d399
       }
 
-      .lg\\\\:marker-green-500::-webkit-details-marker, .lg\\\\:marker-green-500::marker {
-        color: #10b981
-      }
-
       .lg\\\\:marker-green-50::-webkit-details-marker, .lg\\\\:marker-green-50::marker {
         color: #ecfdf5
+      }
+
+      .lg\\\\:marker-green-500::-webkit-details-marker, .lg\\\\:marker-green-500::marker {
+        color: #10b981
       }
 
       .lg\\\\:marker-green-600::-webkit-details-marker, .lg\\\\:marker-green-600::marker {
@@ -2524,12 +2524,12 @@ it("should generate default classes for the marker components", async () => {
         color: #818cf8
       }
 
-      .lg\\\\:marker-indigo-500::-webkit-details-marker, .lg\\\\:marker-indigo-500::marker {
-        color: #6366f1
-      }
-
       .lg\\\\:marker-indigo-50::-webkit-details-marker, .lg\\\\:marker-indigo-50::marker {
         color: #eef2ff
+      }
+
+      .lg\\\\:marker-indigo-500::-webkit-details-marker, .lg\\\\:marker-indigo-500::marker {
+        color: #6366f1
       }
 
       .lg\\\\:marker-indigo-600::-webkit-details-marker, .lg\\\\:marker-indigo-600::marker {
@@ -2564,12 +2564,12 @@ it("should generate default classes for the marker components", async () => {
         color: #f472b6
       }
 
-      .lg\\\\:marker-pink-500::-webkit-details-marker, .lg\\\\:marker-pink-500::marker {
-        color: #ec4899
-      }
-
       .lg\\\\:marker-pink-50::-webkit-details-marker, .lg\\\\:marker-pink-50::marker {
         color: #fdf2f8
+      }
+
+      .lg\\\\:marker-pink-500::-webkit-details-marker, .lg\\\\:marker-pink-500::marker {
+        color: #ec4899
       }
 
       .lg\\\\:marker-pink-600::-webkit-details-marker, .lg\\\\:marker-pink-600::marker {
@@ -2604,12 +2604,12 @@ it("should generate default classes for the marker components", async () => {
         color: #a78bfa
       }
 
-      .lg\\\\:marker-purple-500::-webkit-details-marker, .lg\\\\:marker-purple-500::marker {
-        color: #8b5cf6
-      }
-
       .lg\\\\:marker-purple-50::-webkit-details-marker, .lg\\\\:marker-purple-50::marker {
         color: #f5f3ff
+      }
+
+      .lg\\\\:marker-purple-500::-webkit-details-marker, .lg\\\\:marker-purple-500::marker {
+        color: #8b5cf6
       }
 
       .lg\\\\:marker-purple-600::-webkit-details-marker, .lg\\\\:marker-purple-600::marker {
@@ -2644,12 +2644,12 @@ it("should generate default classes for the marker components", async () => {
         color: #f87171
       }
 
-      .lg\\\\:marker-red-500::-webkit-details-marker, .lg\\\\:marker-red-500::marker {
-        color: #ef4444
-      }
-
       .lg\\\\:marker-red-50::-webkit-details-marker, .lg\\\\:marker-red-50::marker {
         color: #fef2f2
+      }
+
+      .lg\\\\:marker-red-500::-webkit-details-marker, .lg\\\\:marker-red-500::marker {
+        color: #ef4444
       }
 
       .lg\\\\:marker-red-600::-webkit-details-marker, .lg\\\\:marker-red-600::marker {
@@ -2688,12 +2688,12 @@ it("should generate default classes for the marker components", async () => {
         color: #fbbf24
       }
 
-      .lg\\\\:marker-yellow-500::-webkit-details-marker, .lg\\\\:marker-yellow-500::marker {
-        color: #f59e0b
-      }
-
       .lg\\\\:marker-yellow-50::-webkit-details-marker, .lg\\\\:marker-yellow-50::marker {
         color: #fffbeb
+      }
+
+      .lg\\\\:marker-yellow-500::-webkit-details-marker, .lg\\\\:marker-yellow-500::marker {
+        color: #f59e0b
       }
 
       .lg\\\\:marker-yellow-600::-webkit-details-marker, .lg\\\\:marker-yellow-600::marker {
@@ -3066,12 +3066,12 @@ it("should generate default classes for the marker components", async () => {
         color: #60a5fa
       }
 
-      .xl\\\\:marker-blue-500::-webkit-details-marker, .xl\\\\:marker-blue-500::marker {
-        color: #3b82f6
-      }
-
       .xl\\\\:marker-blue-50::-webkit-details-marker, .xl\\\\:marker-blue-50::marker {
         color: #eff6ff
+      }
+
+      .xl\\\\:marker-blue-500::-webkit-details-marker, .xl\\\\:marker-blue-500::marker {
+        color: #3b82f6
       }
 
       .xl\\\\:marker-blue-600::-webkit-details-marker, .xl\\\\:marker-blue-600::marker {
@@ -3110,12 +3110,12 @@ it("should generate default classes for the marker components", async () => {
         color: #9ca3af
       }
 
-      .xl\\\\:marker-gray-500::-webkit-details-marker, .xl\\\\:marker-gray-500::marker {
-        color: #6b7280
-      }
-
       .xl\\\\:marker-gray-50::-webkit-details-marker, .xl\\\\:marker-gray-50::marker {
         color: #f9fafb
+      }
+
+      .xl\\\\:marker-gray-500::-webkit-details-marker, .xl\\\\:marker-gray-500::marker {
+        color: #6b7280
       }
 
       .xl\\\\:marker-gray-600::-webkit-details-marker, .xl\\\\:marker-gray-600::marker {
@@ -3150,12 +3150,12 @@ it("should generate default classes for the marker components", async () => {
         color: #34d399
       }
 
-      .xl\\\\:marker-green-500::-webkit-details-marker, .xl\\\\:marker-green-500::marker {
-        color: #10b981
-      }
-
       .xl\\\\:marker-green-50::-webkit-details-marker, .xl\\\\:marker-green-50::marker {
         color: #ecfdf5
+      }
+
+      .xl\\\\:marker-green-500::-webkit-details-marker, .xl\\\\:marker-green-500::marker {
+        color: #10b981
       }
 
       .xl\\\\:marker-green-600::-webkit-details-marker, .xl\\\\:marker-green-600::marker {
@@ -3190,12 +3190,12 @@ it("should generate default classes for the marker components", async () => {
         color: #818cf8
       }
 
-      .xl\\\\:marker-indigo-500::-webkit-details-marker, .xl\\\\:marker-indigo-500::marker {
-        color: #6366f1
-      }
-
       .xl\\\\:marker-indigo-50::-webkit-details-marker, .xl\\\\:marker-indigo-50::marker {
         color: #eef2ff
+      }
+
+      .xl\\\\:marker-indigo-500::-webkit-details-marker, .xl\\\\:marker-indigo-500::marker {
+        color: #6366f1
       }
 
       .xl\\\\:marker-indigo-600::-webkit-details-marker, .xl\\\\:marker-indigo-600::marker {
@@ -3230,12 +3230,12 @@ it("should generate default classes for the marker components", async () => {
         color: #f472b6
       }
 
-      .xl\\\\:marker-pink-500::-webkit-details-marker, .xl\\\\:marker-pink-500::marker {
-        color: #ec4899
-      }
-
       .xl\\\\:marker-pink-50::-webkit-details-marker, .xl\\\\:marker-pink-50::marker {
         color: #fdf2f8
+      }
+
+      .xl\\\\:marker-pink-500::-webkit-details-marker, .xl\\\\:marker-pink-500::marker {
+        color: #ec4899
       }
 
       .xl\\\\:marker-pink-600::-webkit-details-marker, .xl\\\\:marker-pink-600::marker {
@@ -3270,12 +3270,12 @@ it("should generate default classes for the marker components", async () => {
         color: #a78bfa
       }
 
-      .xl\\\\:marker-purple-500::-webkit-details-marker, .xl\\\\:marker-purple-500::marker {
-        color: #8b5cf6
-      }
-
       .xl\\\\:marker-purple-50::-webkit-details-marker, .xl\\\\:marker-purple-50::marker {
         color: #f5f3ff
+      }
+
+      .xl\\\\:marker-purple-500::-webkit-details-marker, .xl\\\\:marker-purple-500::marker {
+        color: #8b5cf6
       }
 
       .xl\\\\:marker-purple-600::-webkit-details-marker, .xl\\\\:marker-purple-600::marker {
@@ -3310,12 +3310,12 @@ it("should generate default classes for the marker components", async () => {
         color: #f87171
       }
 
-      .xl\\\\:marker-red-500::-webkit-details-marker, .xl\\\\:marker-red-500::marker {
-        color: #ef4444
-      }
-
       .xl\\\\:marker-red-50::-webkit-details-marker, .xl\\\\:marker-red-50::marker {
         color: #fef2f2
+      }
+
+      .xl\\\\:marker-red-500::-webkit-details-marker, .xl\\\\:marker-red-500::marker {
+        color: #ef4444
       }
 
       .xl\\\\:marker-red-600::-webkit-details-marker, .xl\\\\:marker-red-600::marker {
@@ -3354,12 +3354,12 @@ it("should generate default classes for the marker components", async () => {
         color: #fbbf24
       }
 
-      .xl\\\\:marker-yellow-500::-webkit-details-marker, .xl\\\\:marker-yellow-500::marker {
-        color: #f59e0b
-      }
-
       .xl\\\\:marker-yellow-50::-webkit-details-marker, .xl\\\\:marker-yellow-50::marker {
         color: #fffbeb
+      }
+
+      .xl\\\\:marker-yellow-500::-webkit-details-marker, .xl\\\\:marker-yellow-500::marker {
+        color: #f59e0b
       }
 
       .xl\\\\:marker-yellow-600::-webkit-details-marker, .xl\\\\:marker-yellow-600::marker {
@@ -3732,12 +3732,12 @@ it("should generate default classes for the marker components", async () => {
         color: #60a5fa
       }
 
-      .\\\\32xl\\\\:marker-blue-500::-webkit-details-marker, .\\\\32xl\\\\:marker-blue-500::marker {
-        color: #3b82f6
-      }
-
       .\\\\32xl\\\\:marker-blue-50::-webkit-details-marker, .\\\\32xl\\\\:marker-blue-50::marker {
         color: #eff6ff
+      }
+
+      .\\\\32xl\\\\:marker-blue-500::-webkit-details-marker, .\\\\32xl\\\\:marker-blue-500::marker {
+        color: #3b82f6
       }
 
       .\\\\32xl\\\\:marker-blue-600::-webkit-details-marker, .\\\\32xl\\\\:marker-blue-600::marker {
@@ -3776,12 +3776,12 @@ it("should generate default classes for the marker components", async () => {
         color: #9ca3af
       }
 
-      .\\\\32xl\\\\:marker-gray-500::-webkit-details-marker, .\\\\32xl\\\\:marker-gray-500::marker {
-        color: #6b7280
-      }
-
       .\\\\32xl\\\\:marker-gray-50::-webkit-details-marker, .\\\\32xl\\\\:marker-gray-50::marker {
         color: #f9fafb
+      }
+
+      .\\\\32xl\\\\:marker-gray-500::-webkit-details-marker, .\\\\32xl\\\\:marker-gray-500::marker {
+        color: #6b7280
       }
 
       .\\\\32xl\\\\:marker-gray-600::-webkit-details-marker, .\\\\32xl\\\\:marker-gray-600::marker {
@@ -3816,12 +3816,12 @@ it("should generate default classes for the marker components", async () => {
         color: #34d399
       }
 
-      .\\\\32xl\\\\:marker-green-500::-webkit-details-marker, .\\\\32xl\\\\:marker-green-500::marker {
-        color: #10b981
-      }
-
       .\\\\32xl\\\\:marker-green-50::-webkit-details-marker, .\\\\32xl\\\\:marker-green-50::marker {
         color: #ecfdf5
+      }
+
+      .\\\\32xl\\\\:marker-green-500::-webkit-details-marker, .\\\\32xl\\\\:marker-green-500::marker {
+        color: #10b981
       }
 
       .\\\\32xl\\\\:marker-green-600::-webkit-details-marker, .\\\\32xl\\\\:marker-green-600::marker {
@@ -3856,12 +3856,12 @@ it("should generate default classes for the marker components", async () => {
         color: #818cf8
       }
 
-      .\\\\32xl\\\\:marker-indigo-500::-webkit-details-marker, .\\\\32xl\\\\:marker-indigo-500::marker {
-        color: #6366f1
-      }
-
       .\\\\32xl\\\\:marker-indigo-50::-webkit-details-marker, .\\\\32xl\\\\:marker-indigo-50::marker {
         color: #eef2ff
+      }
+
+      .\\\\32xl\\\\:marker-indigo-500::-webkit-details-marker, .\\\\32xl\\\\:marker-indigo-500::marker {
+        color: #6366f1
       }
 
       .\\\\32xl\\\\:marker-indigo-600::-webkit-details-marker, .\\\\32xl\\\\:marker-indigo-600::marker {
@@ -3896,12 +3896,12 @@ it("should generate default classes for the marker components", async () => {
         color: #f472b6
       }
 
-      .\\\\32xl\\\\:marker-pink-500::-webkit-details-marker, .\\\\32xl\\\\:marker-pink-500::marker {
-        color: #ec4899
-      }
-
       .\\\\32xl\\\\:marker-pink-50::-webkit-details-marker, .\\\\32xl\\\\:marker-pink-50::marker {
         color: #fdf2f8
+      }
+
+      .\\\\32xl\\\\:marker-pink-500::-webkit-details-marker, .\\\\32xl\\\\:marker-pink-500::marker {
+        color: #ec4899
       }
 
       .\\\\32xl\\\\:marker-pink-600::-webkit-details-marker, .\\\\32xl\\\\:marker-pink-600::marker {
@@ -3936,12 +3936,12 @@ it("should generate default classes for the marker components", async () => {
         color: #a78bfa
       }
 
-      .\\\\32xl\\\\:marker-purple-500::-webkit-details-marker, .\\\\32xl\\\\:marker-purple-500::marker {
-        color: #8b5cf6
-      }
-
       .\\\\32xl\\\\:marker-purple-50::-webkit-details-marker, .\\\\32xl\\\\:marker-purple-50::marker {
         color: #f5f3ff
+      }
+
+      .\\\\32xl\\\\:marker-purple-500::-webkit-details-marker, .\\\\32xl\\\\:marker-purple-500::marker {
+        color: #8b5cf6
       }
 
       .\\\\32xl\\\\:marker-purple-600::-webkit-details-marker, .\\\\32xl\\\\:marker-purple-600::marker {
@@ -3976,12 +3976,12 @@ it("should generate default classes for the marker components", async () => {
         color: #f87171
       }
 
-      .\\\\32xl\\\\:marker-red-500::-webkit-details-marker, .\\\\32xl\\\\:marker-red-500::marker {
-        color: #ef4444
-      }
-
       .\\\\32xl\\\\:marker-red-50::-webkit-details-marker, .\\\\32xl\\\\:marker-red-50::marker {
         color: #fef2f2
+      }
+
+      .\\\\32xl\\\\:marker-red-500::-webkit-details-marker, .\\\\32xl\\\\:marker-red-500::marker {
+        color: #ef4444
       }
 
       .\\\\32xl\\\\:marker-red-600::-webkit-details-marker, .\\\\32xl\\\\:marker-red-600::marker {
@@ -4020,12 +4020,12 @@ it("should generate default classes for the marker components", async () => {
         color: #fbbf24
       }
 
-      .\\\\32xl\\\\:marker-yellow-500::-webkit-details-marker, .\\\\32xl\\\\:marker-yellow-500::marker {
-        color: #f59e0b
-      }
-
       .\\\\32xl\\\\:marker-yellow-50::-webkit-details-marker, .\\\\32xl\\\\:marker-yellow-50::marker {
         color: #fffbeb
+      }
+
+      .\\\\32xl\\\\:marker-yellow-500::-webkit-details-marker, .\\\\32xl\\\\:marker-yellow-500::marker {
+        color: #f59e0b
       }
 
       .\\\\32xl\\\\:marker-yellow-600::-webkit-details-marker, .\\\\32xl\\\\:marker-yellow-600::marker {
@@ -4449,12 +4449,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #60a5fa
     -   }
     -
-    -   .md\\\\:marker-blue-500::-webkit-details-marker, .md\\\\:marker-blue-500::marker {
-    -     color: #3b82f6
-    -   }
-    -
     -   .md\\\\:marker-blue-50::-webkit-details-marker, .md\\\\:marker-blue-50::marker {
     -     color: #eff6ff
+    -   }
+    -
+    -   .md\\\\:marker-blue-500::-webkit-details-marker, .md\\\\:marker-blue-500::marker {
+    -     color: #3b82f6
     -   }
     -
     -   .md\\\\:marker-blue-600::-webkit-details-marker, .md\\\\:marker-blue-600::marker {
@@ -4493,12 +4493,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #9ca3af
     -   }
     -
-    -   .md\\\\:marker-gray-500::-webkit-details-marker, .md\\\\:marker-gray-500::marker {
-    -     color: #6b7280
-    -   }
-    -
     -   .md\\\\:marker-gray-50::-webkit-details-marker, .md\\\\:marker-gray-50::marker {
     -     color: #f9fafb
+    -   }
+    -
+    -   .md\\\\:marker-gray-500::-webkit-details-marker, .md\\\\:marker-gray-500::marker {
+    -     color: #6b7280
     -   }
     -
     -   .md\\\\:marker-gray-600::-webkit-details-marker, .md\\\\:marker-gray-600::marker {
@@ -4533,12 +4533,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #34d399
     -   }
     -
-    -   .md\\\\:marker-green-500::-webkit-details-marker, .md\\\\:marker-green-500::marker {
-    -     color: #10b981
-    -   }
-    -
     -   .md\\\\:marker-green-50::-webkit-details-marker, .md\\\\:marker-green-50::marker {
     -     color: #ecfdf5
+    -   }
+    -
+    -   .md\\\\:marker-green-500::-webkit-details-marker, .md\\\\:marker-green-500::marker {
+    -     color: #10b981
     -   }
     -
     -   .md\\\\:marker-green-600::-webkit-details-marker, .md\\\\:marker-green-600::marker {
@@ -4573,12 +4573,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #818cf8
     -   }
     -
-    -   .md\\\\:marker-indigo-500::-webkit-details-marker, .md\\\\:marker-indigo-500::marker {
-    -     color: #6366f1
-    -   }
-    -
     -   .md\\\\:marker-indigo-50::-webkit-details-marker, .md\\\\:marker-indigo-50::marker {
     -     color: #eef2ff
+    -   }
+    -
+    -   .md\\\\:marker-indigo-500::-webkit-details-marker, .md\\\\:marker-indigo-500::marker {
+    -     color: #6366f1
     -   }
     -
     -   .md\\\\:marker-indigo-600::-webkit-details-marker, .md\\\\:marker-indigo-600::marker {
@@ -4613,12 +4613,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #f472b6
     -   }
     -
-    -   .md\\\\:marker-pink-500::-webkit-details-marker, .md\\\\:marker-pink-500::marker {
-    -     color: #ec4899
-    -   }
-    -
     -   .md\\\\:marker-pink-50::-webkit-details-marker, .md\\\\:marker-pink-50::marker {
     -     color: #fdf2f8
+    -   }
+    -
+    -   .md\\\\:marker-pink-500::-webkit-details-marker, .md\\\\:marker-pink-500::marker {
+    -     color: #ec4899
     -   }
     -
     -   .md\\\\:marker-pink-600::-webkit-details-marker, .md\\\\:marker-pink-600::marker {
@@ -4653,12 +4653,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #a78bfa
     -   }
     -
-    -   .md\\\\:marker-purple-500::-webkit-details-marker, .md\\\\:marker-purple-500::marker {
-    -     color: #8b5cf6
-    -   }
-    -
     -   .md\\\\:marker-purple-50::-webkit-details-marker, .md\\\\:marker-purple-50::marker {
     -     color: #f5f3ff
+    -   }
+    -
+    -   .md\\\\:marker-purple-500::-webkit-details-marker, .md\\\\:marker-purple-500::marker {
+    -     color: #8b5cf6
     -   }
     -
     -   .md\\\\:marker-purple-600::-webkit-details-marker, .md\\\\:marker-purple-600::marker {
@@ -4693,12 +4693,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #f87171
     -   }
     -
-    -   .md\\\\:marker-red-500::-webkit-details-marker, .md\\\\:marker-red-500::marker {
-    -     color: #ef4444
-    -   }
-    -
     -   .md\\\\:marker-red-50::-webkit-details-marker, .md\\\\:marker-red-50::marker {
     -     color: #fef2f2
+    -   }
+    -
+    -   .md\\\\:marker-red-500::-webkit-details-marker, .md\\\\:marker-red-500::marker {
+    -     color: #ef4444
     -   }
     -
     -   .md\\\\:marker-red-600::-webkit-details-marker, .md\\\\:marker-red-600::marker {
@@ -4737,12 +4737,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #fbbf24
     -   }
     -
-    -   .md\\\\:marker-yellow-500::-webkit-details-marker, .md\\\\:marker-yellow-500::marker {
-    -     color: #f59e0b
-    -   }
-    -
     -   .md\\\\:marker-yellow-50::-webkit-details-marker, .md\\\\:marker-yellow-50::marker {
     -     color: #fffbeb
+    -   }
+    -
+    -   .md\\\\:marker-yellow-500::-webkit-details-marker, .md\\\\:marker-yellow-500::marker {
+    -     color: #f59e0b
     -   }
     -
     -   .md\\\\:marker-yellow-600::-webkit-details-marker, .md\\\\:marker-yellow-600::marker {
@@ -5115,12 +5115,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #60a5fa
     -   }
     -
-    -   .lg\\\\:marker-blue-500::-webkit-details-marker, .lg\\\\:marker-blue-500::marker {
-    -     color: #3b82f6
-    -   }
-    -
     -   .lg\\\\:marker-blue-50::-webkit-details-marker, .lg\\\\:marker-blue-50::marker {
     -     color: #eff6ff
+    -   }
+    -
+    -   .lg\\\\:marker-blue-500::-webkit-details-marker, .lg\\\\:marker-blue-500::marker {
+    -     color: #3b82f6
     -   }
     -
     -   .lg\\\\:marker-blue-600::-webkit-details-marker, .lg\\\\:marker-blue-600::marker {
@@ -5159,12 +5159,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #9ca3af
     -   }
     -
-    -   .lg\\\\:marker-gray-500::-webkit-details-marker, .lg\\\\:marker-gray-500::marker {
-    -     color: #6b7280
-    -   }
-    -
     -   .lg\\\\:marker-gray-50::-webkit-details-marker, .lg\\\\:marker-gray-50::marker {
     -     color: #f9fafb
+    -   }
+    -
+    -   .lg\\\\:marker-gray-500::-webkit-details-marker, .lg\\\\:marker-gray-500::marker {
+    -     color: #6b7280
     -   }
     -
     -   .lg\\\\:marker-gray-600::-webkit-details-marker, .lg\\\\:marker-gray-600::marker {
@@ -5199,12 +5199,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #34d399
     -   }
     -
-    -   .lg\\\\:marker-green-500::-webkit-details-marker, .lg\\\\:marker-green-500::marker {
-    -     color: #10b981
-    -   }
-    -
     -   .lg\\\\:marker-green-50::-webkit-details-marker, .lg\\\\:marker-green-50::marker {
     -     color: #ecfdf5
+    -   }
+    -
+    -   .lg\\\\:marker-green-500::-webkit-details-marker, .lg\\\\:marker-green-500::marker {
+    -     color: #10b981
     -   }
     -
     -   .lg\\\\:marker-green-600::-webkit-details-marker, .lg\\\\:marker-green-600::marker {
@@ -5239,12 +5239,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #818cf8
     -   }
     -
-    -   .lg\\\\:marker-indigo-500::-webkit-details-marker, .lg\\\\:marker-indigo-500::marker {
-    -     color: #6366f1
-    -   }
-    -
     -   .lg\\\\:marker-indigo-50::-webkit-details-marker, .lg\\\\:marker-indigo-50::marker {
     -     color: #eef2ff
+    -   }
+    -
+    -   .lg\\\\:marker-indigo-500::-webkit-details-marker, .lg\\\\:marker-indigo-500::marker {
+    -     color: #6366f1
     -   }
     -
     -   .lg\\\\:marker-indigo-600::-webkit-details-marker, .lg\\\\:marker-indigo-600::marker {
@@ -5279,12 +5279,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #f472b6
     -   }
     -
-    -   .lg\\\\:marker-pink-500::-webkit-details-marker, .lg\\\\:marker-pink-500::marker {
-    -     color: #ec4899
-    -   }
-    -
     -   .lg\\\\:marker-pink-50::-webkit-details-marker, .lg\\\\:marker-pink-50::marker {
     -     color: #fdf2f8
+    -   }
+    -
+    -   .lg\\\\:marker-pink-500::-webkit-details-marker, .lg\\\\:marker-pink-500::marker {
+    -     color: #ec4899
     -   }
     -
     -   .lg\\\\:marker-pink-600::-webkit-details-marker, .lg\\\\:marker-pink-600::marker {
@@ -5319,12 +5319,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #a78bfa
     -   }
     -
-    -   .lg\\\\:marker-purple-500::-webkit-details-marker, .lg\\\\:marker-purple-500::marker {
-    -     color: #8b5cf6
-    -   }
-    -
     -   .lg\\\\:marker-purple-50::-webkit-details-marker, .lg\\\\:marker-purple-50::marker {
     -     color: #f5f3ff
+    -   }
+    -
+    -   .lg\\\\:marker-purple-500::-webkit-details-marker, .lg\\\\:marker-purple-500::marker {
+    -     color: #8b5cf6
     -   }
     -
     -   .lg\\\\:marker-purple-600::-webkit-details-marker, .lg\\\\:marker-purple-600::marker {
@@ -5359,12 +5359,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #f87171
     -   }
     -
-    -   .lg\\\\:marker-red-500::-webkit-details-marker, .lg\\\\:marker-red-500::marker {
-    -     color: #ef4444
-    -   }
-    -
     -   .lg\\\\:marker-red-50::-webkit-details-marker, .lg\\\\:marker-red-50::marker {
     -     color: #fef2f2
+    -   }
+    -
+    -   .lg\\\\:marker-red-500::-webkit-details-marker, .lg\\\\:marker-red-500::marker {
+    -     color: #ef4444
     -   }
     -
     -   .lg\\\\:marker-red-600::-webkit-details-marker, .lg\\\\:marker-red-600::marker {
@@ -5403,12 +5403,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #fbbf24
     -   }
     -
-    -   .lg\\\\:marker-yellow-500::-webkit-details-marker, .lg\\\\:marker-yellow-500::marker {
-    -     color: #f59e0b
-    -   }
-    -
     -   .lg\\\\:marker-yellow-50::-webkit-details-marker, .lg\\\\:marker-yellow-50::marker {
     -     color: #fffbeb
+    -   }
+    -
+    -   .lg\\\\:marker-yellow-500::-webkit-details-marker, .lg\\\\:marker-yellow-500::marker {
+    -     color: #f59e0b
     -   }
     -
     -   .lg\\\\:marker-yellow-600::-webkit-details-marker, .lg\\\\:marker-yellow-600::marker {
@@ -5781,12 +5781,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #60a5fa
     -   }
     -
-    -   .xl\\\\:marker-blue-500::-webkit-details-marker, .xl\\\\:marker-blue-500::marker {
-    -     color: #3b82f6
-    -   }
-    -
     -   .xl\\\\:marker-blue-50::-webkit-details-marker, .xl\\\\:marker-blue-50::marker {
     -     color: #eff6ff
+    -   }
+    -
+    -   .xl\\\\:marker-blue-500::-webkit-details-marker, .xl\\\\:marker-blue-500::marker {
+    -     color: #3b82f6
     -   }
     -
     -   .xl\\\\:marker-blue-600::-webkit-details-marker, .xl\\\\:marker-blue-600::marker {
@@ -5825,12 +5825,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #9ca3af
     -   }
     -
-    -   .xl\\\\:marker-gray-500::-webkit-details-marker, .xl\\\\:marker-gray-500::marker {
-    -     color: #6b7280
-    -   }
-    -
     -   .xl\\\\:marker-gray-50::-webkit-details-marker, .xl\\\\:marker-gray-50::marker {
     -     color: #f9fafb
+    -   }
+    -
+    -   .xl\\\\:marker-gray-500::-webkit-details-marker, .xl\\\\:marker-gray-500::marker {
+    -     color: #6b7280
     -   }
     -
     -   .xl\\\\:marker-gray-600::-webkit-details-marker, .xl\\\\:marker-gray-600::marker {
@@ -5865,12 +5865,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #34d399
     -   }
     -
-    -   .xl\\\\:marker-green-500::-webkit-details-marker, .xl\\\\:marker-green-500::marker {
-    -     color: #10b981
-    -   }
-    -
     -   .xl\\\\:marker-green-50::-webkit-details-marker, .xl\\\\:marker-green-50::marker {
     -     color: #ecfdf5
+    -   }
+    -
+    -   .xl\\\\:marker-green-500::-webkit-details-marker, .xl\\\\:marker-green-500::marker {
+    -     color: #10b981
     -   }
     -
     -   .xl\\\\:marker-green-600::-webkit-details-marker, .xl\\\\:marker-green-600::marker {
@@ -5905,12 +5905,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #818cf8
     -   }
     -
-    -   .xl\\\\:marker-indigo-500::-webkit-details-marker, .xl\\\\:marker-indigo-500::marker {
-    -     color: #6366f1
-    -   }
-    -
     -   .xl\\\\:marker-indigo-50::-webkit-details-marker, .xl\\\\:marker-indigo-50::marker {
     -     color: #eef2ff
+    -   }
+    -
+    -   .xl\\\\:marker-indigo-500::-webkit-details-marker, .xl\\\\:marker-indigo-500::marker {
+    -     color: #6366f1
     -   }
     -
     -   .xl\\\\:marker-indigo-600::-webkit-details-marker, .xl\\\\:marker-indigo-600::marker {
@@ -5945,12 +5945,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #f472b6
     -   }
     -
-    -   .xl\\\\:marker-pink-500::-webkit-details-marker, .xl\\\\:marker-pink-500::marker {
-    -     color: #ec4899
-    -   }
-    -
     -   .xl\\\\:marker-pink-50::-webkit-details-marker, .xl\\\\:marker-pink-50::marker {
     -     color: #fdf2f8
+    -   }
+    -
+    -   .xl\\\\:marker-pink-500::-webkit-details-marker, .xl\\\\:marker-pink-500::marker {
+    -     color: #ec4899
     -   }
     -
     -   .xl\\\\:marker-pink-600::-webkit-details-marker, .xl\\\\:marker-pink-600::marker {
@@ -5985,12 +5985,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #a78bfa
     -   }
     -
-    -   .xl\\\\:marker-purple-500::-webkit-details-marker, .xl\\\\:marker-purple-500::marker {
-    -     color: #8b5cf6
-    -   }
-    -
     -   .xl\\\\:marker-purple-50::-webkit-details-marker, .xl\\\\:marker-purple-50::marker {
     -     color: #f5f3ff
+    -   }
+    -
+    -   .xl\\\\:marker-purple-500::-webkit-details-marker, .xl\\\\:marker-purple-500::marker {
+    -     color: #8b5cf6
     -   }
     -
     -   .xl\\\\:marker-purple-600::-webkit-details-marker, .xl\\\\:marker-purple-600::marker {
@@ -6025,12 +6025,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #f87171
     -   }
     -
-    -   .xl\\\\:marker-red-500::-webkit-details-marker, .xl\\\\:marker-red-500::marker {
-    -     color: #ef4444
-    -   }
-    -
     -   .xl\\\\:marker-red-50::-webkit-details-marker, .xl\\\\:marker-red-50::marker {
     -     color: #fef2f2
+    -   }
+    -
+    -   .xl\\\\:marker-red-500::-webkit-details-marker, .xl\\\\:marker-red-500::marker {
+    -     color: #ef4444
     -   }
     -
     -   .xl\\\\:marker-red-600::-webkit-details-marker, .xl\\\\:marker-red-600::marker {
@@ -6069,12 +6069,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #fbbf24
     -   }
     -
-    -   .xl\\\\:marker-yellow-500::-webkit-details-marker, .xl\\\\:marker-yellow-500::marker {
-    -     color: #f59e0b
-    -   }
-    -
     -   .xl\\\\:marker-yellow-50::-webkit-details-marker, .xl\\\\:marker-yellow-50::marker {
     -     color: #fffbeb
+    -   }
+    -
+    -   .xl\\\\:marker-yellow-500::-webkit-details-marker, .xl\\\\:marker-yellow-500::marker {
+    -     color: #f59e0b
     -   }
     -
     -   .xl\\\\:marker-yellow-600::-webkit-details-marker, .xl\\\\:marker-yellow-600::marker {
@@ -6447,12 +6447,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #60a5fa
     -   }
     -
-    -   .\\\\32xl\\\\:marker-blue-500::-webkit-details-marker, .\\\\32xl\\\\:marker-blue-500::marker {
-    -     color: #3b82f6
-    -   }
-    -
     -   .\\\\32xl\\\\:marker-blue-50::-webkit-details-marker, .\\\\32xl\\\\:marker-blue-50::marker {
     -     color: #eff6ff
+    -   }
+    -
+    -   .\\\\32xl\\\\:marker-blue-500::-webkit-details-marker, .\\\\32xl\\\\:marker-blue-500::marker {
+    -     color: #3b82f6
     -   }
     -
     -   .\\\\32xl\\\\:marker-blue-600::-webkit-details-marker, .\\\\32xl\\\\:marker-blue-600::marker {
@@ -6491,12 +6491,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #9ca3af
     -   }
     -
-    -   .\\\\32xl\\\\:marker-gray-500::-webkit-details-marker, .\\\\32xl\\\\:marker-gray-500::marker {
-    -     color: #6b7280
-    -   }
-    -
     -   .\\\\32xl\\\\:marker-gray-50::-webkit-details-marker, .\\\\32xl\\\\:marker-gray-50::marker {
     -     color: #f9fafb
+    -   }
+    -
+    -   .\\\\32xl\\\\:marker-gray-500::-webkit-details-marker, .\\\\32xl\\\\:marker-gray-500::marker {
+    -     color: #6b7280
     -   }
     -
     -   .\\\\32xl\\\\:marker-gray-600::-webkit-details-marker, .\\\\32xl\\\\:marker-gray-600::marker {
@@ -6531,12 +6531,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #34d399
     -   }
     -
-    -   .\\\\32xl\\\\:marker-green-500::-webkit-details-marker, .\\\\32xl\\\\:marker-green-500::marker {
-    -     color: #10b981
-    -   }
-    -
     -   .\\\\32xl\\\\:marker-green-50::-webkit-details-marker, .\\\\32xl\\\\:marker-green-50::marker {
     -     color: #ecfdf5
+    -   }
+    -
+    -   .\\\\32xl\\\\:marker-green-500::-webkit-details-marker, .\\\\32xl\\\\:marker-green-500::marker {
+    -     color: #10b981
     -   }
     -
     -   .\\\\32xl\\\\:marker-green-600::-webkit-details-marker, .\\\\32xl\\\\:marker-green-600::marker {
@@ -6571,12 +6571,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #818cf8
     -   }
     -
-    -   .\\\\32xl\\\\:marker-indigo-500::-webkit-details-marker, .\\\\32xl\\\\:marker-indigo-500::marker {
-    -     color: #6366f1
-    -   }
-    -
     -   .\\\\32xl\\\\:marker-indigo-50::-webkit-details-marker, .\\\\32xl\\\\:marker-indigo-50::marker {
     -     color: #eef2ff
+    -   }
+    -
+    -   .\\\\32xl\\\\:marker-indigo-500::-webkit-details-marker, .\\\\32xl\\\\:marker-indigo-500::marker {
+    -     color: #6366f1
     -   }
     -
     -   .\\\\32xl\\\\:marker-indigo-600::-webkit-details-marker, .\\\\32xl\\\\:marker-indigo-600::marker {
@@ -6611,12 +6611,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #f472b6
     -   }
     -
-    -   .\\\\32xl\\\\:marker-pink-500::-webkit-details-marker, .\\\\32xl\\\\:marker-pink-500::marker {
-    -     color: #ec4899
-    -   }
-    -
     -   .\\\\32xl\\\\:marker-pink-50::-webkit-details-marker, .\\\\32xl\\\\:marker-pink-50::marker {
     -     color: #fdf2f8
+    -   }
+    -
+    -   .\\\\32xl\\\\:marker-pink-500::-webkit-details-marker, .\\\\32xl\\\\:marker-pink-500::marker {
+    -     color: #ec4899
     -   }
     -
     -   .\\\\32xl\\\\:marker-pink-600::-webkit-details-marker, .\\\\32xl\\\\:marker-pink-600::marker {
@@ -6651,12 +6651,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #a78bfa
     -   }
     -
-    -   .\\\\32xl\\\\:marker-purple-500::-webkit-details-marker, .\\\\32xl\\\\:marker-purple-500::marker {
-    -     color: #8b5cf6
-    -   }
-    -
     -   .\\\\32xl\\\\:marker-purple-50::-webkit-details-marker, .\\\\32xl\\\\:marker-purple-50::marker {
     -     color: #f5f3ff
+    -   }
+    -
+    -   .\\\\32xl\\\\:marker-purple-500::-webkit-details-marker, .\\\\32xl\\\\:marker-purple-500::marker {
+    -     color: #8b5cf6
     -   }
     -
     -   .\\\\32xl\\\\:marker-purple-600::-webkit-details-marker, .\\\\32xl\\\\:marker-purple-600::marker {
@@ -6691,12 +6691,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #f87171
     -   }
     -
-    -   .\\\\32xl\\\\:marker-red-500::-webkit-details-marker, .\\\\32xl\\\\:marker-red-500::marker {
-    -     color: #ef4444
-    -   }
-    -
     -   .\\\\32xl\\\\:marker-red-50::-webkit-details-marker, .\\\\32xl\\\\:marker-red-50::marker {
     -     color: #fef2f2
+    -   }
+    -
+    -   .\\\\32xl\\\\:marker-red-500::-webkit-details-marker, .\\\\32xl\\\\:marker-red-500::marker {
+    -     color: #ef4444
     -   }
     -
     -   .\\\\32xl\\\\:marker-red-600::-webkit-details-marker, .\\\\32xl\\\\:marker-red-600::marker {
@@ -6735,12 +6735,12 @@ it("should be possible to extend the screens to certain values", async () => {
     -     color: #fbbf24
     -   }
     -
-    -   .\\\\32xl\\\\:marker-yellow-500::-webkit-details-marker, .\\\\32xl\\\\:marker-yellow-500::marker {
-    -     color: #f59e0b
-    -   }
-    -
     -   .\\\\32xl\\\\:marker-yellow-50::-webkit-details-marker, .\\\\32xl\\\\:marker-yellow-50::marker {
     -     color: #fffbeb
+    -   }
+    -
+    -   .\\\\32xl\\\\:marker-yellow-500::-webkit-details-marker, .\\\\32xl\\\\:marker-yellow-500::marker {
+    -     color: #f59e0b
     -   }
     -
     -   .\\\\32xl\\\\:marker-yellow-600::-webkit-details-marker, .\\\\32xl\\\\:marker-yellow-600::marker {
