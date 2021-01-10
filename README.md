@@ -7,7 +7,7 @@ npm install @radishio/tailwindcss-marker
 ```
 
 ## Generated Classes
-This plugin generates the following classes, for styling list markers, as well as `<summary>` markers.
+This plugin generates the following classes, for styling listitem `<li>` markers, as well as `<summary>` markers.
 
 Based on the following configuration, the following classes are created.
 
@@ -61,4 +61,12 @@ For styling individual `<li>` elements or `<summary>` elements, the use of the `
   <!-- Default Color -->
   <li>Yay!</li>
 </ul>
+```
+
+```html
+<details class="m-10">
+  <summary class="marker-brand">How can i change the marker color?</summary>
+
+  Add `.marker-brand` to the `<summary>`-element.
+</details>
 ```
